@@ -1,8 +1,7 @@
 import numpy as np
 from sklearn.cluster import KMeans
-from matplotlib.colors import rgb_to_hsv, hsv_to_rgb
+from matplotlib.colors import rgb_to_hsv
 from PIL import Image
-from mpl_toolkits.mplot3d import Axes3D
 
 
 # convert image to numpy

@@ -11,13 +11,13 @@ A python script that extract main color groups from an image using k-means clust
 ### Pip
 The stable releases of gallery-dl are distributed on PyPI and can be easily installed or upgraded using pip:  
 ```python
-$ python3 -m pip install color-harmony
+$ python -m pip install color-harmony
 ```
 
 ### From Source
 Clone the repository or download the folder from github, then navigate to the respective directory and run:
 ```python
-python3 setup.py install
+python setup.py install
 ```
 
 ## Usage

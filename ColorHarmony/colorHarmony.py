@@ -1,8 +1,6 @@
 import argparse
-import numpy as np
 import os
-from PIL import Image
-from utils import *
+from ColorHarmony.utils import *
 
 PALETTE_SIZE = 150
 

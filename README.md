@@ -38,7 +38,7 @@ $ color-harmony -k 5 -t 1.5 -o text icon.png
 ```
 
 
-## Color Scheme Analysis of Popular Illustrations (Python Notebook on Github)
+## Color Scheme Analysis of Popular Illustrations
 You will need to download the dataset from: https://www.kaggle.com/profnote/pixiv-popular-illustrations or use your own images.  
 ![pic](Slide1.JPG)  
 

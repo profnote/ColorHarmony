@@ -27,7 +27,7 @@ def image_result(colors, size, filename):
         palette[:, c * size:c * size + size, 2] = colors[c][2]  # blue
 
     filename = filename + "_colors.png"
-    im = Image.fromarray((palette* 255).astype('uint8'), 'RGB')
+    im = Image.fromarray((palette).astype('uint8'), 'RGB')
     im.save(filename, "PNG")
     print("Saved palette as", filename)
 
